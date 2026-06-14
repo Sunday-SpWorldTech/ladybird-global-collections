@@ -1,0 +1,6 @@
+services:
+  - type: static_site
+    name: ladybird-global-collections
+    branch: main
+    buildCommand: ""
+    staticPublishPath: .
